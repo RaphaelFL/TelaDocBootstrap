@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(../Img/fundo.jpg);
+
+}
+
+.tac {
+    position: relative;
+    bottom: 80px;
+}
+
+.Dado {
+    position: relative;
+    bottom: 10px;
+    width: 100%;
+    box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.669);
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.About {
+
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.669);
+    background-color: white;
+    border-radius: 20px;
+}
+
+.Experience {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    box-shadow: 4px 4px 25px rgba(0, 0, 0, 0.669);
+    background-color: white;
+    border-radius: 20px;
+}
+
+.cardnome {
+    line-height: 1.1em;
+}
+
+
+.cardeimg {
+    align-items: center;
+    border: 40px;
+}
+
+.fnunber {
+    height: 40px;
+    width: 40px;
+    border-radius: 40%;
+}
+
+.flink {
+    height: 40px;
+    width: 40px;
+    border-radius: 40%;
+}
+
+.flocal {
+    height: 40px;
+    width: 40px;
+    border-radius: 40%;
+}
+
+.icone {
+
+    height: 150%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.Cards {
+
+    align-items: center;
+
+}
+
+.type {
+    text-decoration: underline;
+    color: black;
+
+}
+
+.type:hover {
+    color: rgba(32, 28, 28, 0.762);
+    cursor: pointer;
+}
+
+.fonte-titulo {
+
+    font-family: 'Secular One', sans-serif;
+}
+
+p {
+    text-align: left;
+}
+
+.titulo-carde {
+    text-align: center;
+}
